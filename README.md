@@ -135,3 +135,9 @@ NGN Studio includes a ready-to-use prompt for any large AI model. The workflow:
 The prompt instructs the AI to use all six question types, apply NGN-level clinical reasoning, write thorough rationales that explain why every distractor is wrong, and output valid JSON that the app can parse without modification.
 
 ---
+
+## Exam Packages Repo
+
+Some exams have been created for courses available at UNE, the zip files can be downloaded here and can be uploaded in the app with the import button.
+
+---
