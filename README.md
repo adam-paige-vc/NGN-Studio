@@ -138,6 +138,7 @@ The prompt instructs the AI to use all six question types, apply NGN-level clini
 
 ## Exam Packages Repo
 
-Some exams have been created for courses available at UNE, the zip files can be downloaded here and can be uploaded in the app with the import button.
+Some exams have been created for courses available at UNE, the zip files can be downloaded and can be uploaded in the app with the import button.
+https://github.com/adam-paige-vc/NGN-Studio-Exam-Packages
 
 ---
