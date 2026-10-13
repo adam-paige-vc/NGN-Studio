@@ -1,7 +1,6 @@
 
-### Select AI Important
+### Select AI Import
 <img width="1379" height="844" alt="image" src="https://github.com/user-attachments/assets/801b2c0b-4376-43a7-9d4a-c3a803b1b35b" />
-
 
 
 ### Configure Practice Test Settings
